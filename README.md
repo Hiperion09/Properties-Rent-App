@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Property Rent App
 
-## Getting Started
+This is a web-based project about renting properties, it uses Google Authentication and MongoDB.
 
-First, run the development server:
+## Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project uses NEXT JS capabilities to develop the frontend and connect to the backend side. Also the app
+uses MongoDB and cloudinary to manage the main content of the application. You can register using you Google account
+and register a property that you want to sell. You just add the property putting the information in ther form and upload the data.
+You can view the property and his details to send a message to the seller that owns the property. You can bookmark a property for further review or even delete your own properties that you have been registered.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Video Demo
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+[![Watch the video](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764339/surfcamp/PropiedadesPulse/1_vmxo5z.jpg)](https://youtu.be/skJIdteqCsU)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Gallery
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+| ![Image 1](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764339/surfcamp/PropiedadesPulse/1_vmxo5z.jpg) | ![Image 2](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/2_glaevz.jpg) |
+|:------------------------------:|:------------------------------:|
+| Image 1                        | Image 2                        |
+| ![Image 3](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/3_jtthzu.jpg) | ![Image 4](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/4_stiana.jpg) |
+| Image 3                        | Image 4                        |
+| ![Image 5](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/5_o3ht6j.jpg) | ![Image 6](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764343/surfcamp/PropiedadesPulse/6_rdyiqa.jpg) |
+| Image 5                        | Image 6                        |
+| ![Image 7](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764339/surfcamp/PropiedadesPulse/7_ecfclw.jpg) | ![Image 8](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/8_z6uxn7.jpg) |
+| Image 7                        | Image 8                        |
+| ![Image 9](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764335/surfcamp/PropiedadesPulse/9_ytdmxl.jpg) | ![Image 10](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764338/surfcamp/PropiedadesPulse/10_mredtk.jpg) |
+| Image 9                        | Image 10                        |
+| ![Image 11](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764338/surfcamp/PropiedadesPulse/11_onzj8j.jpg) | ![Image 12](https://res.cloudinary.com/dqkozvfn8/image/upload/v1721764338/surfcamp/PropiedadesPulse/12_bnljpl.jpg) |
+| Image 11                        | Image 12                        |
